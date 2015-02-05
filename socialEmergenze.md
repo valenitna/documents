@@ -57,6 +57,12 @@ Qui le indicazioni per costruire hashtag per altre esigenze:
 \#attenzione : criticità ordinaria  
 \#sos: richiesta aiuto  
 
+###Tag utili sui rischi meteo:
+\#neve + #località
+\#temporale + #località
+\#maltempo +  #località
+\#alluvione + #località
+
 ###Ricostruzione  
 \#cercoAiuto
 \#offroAiuto
